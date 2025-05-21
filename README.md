@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello! Welcome to my Alt Account
 
-<!--
-**hushygames/hushygames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Note:**  
+> This is the alternate GitHub account of [jvr2022](https://github.com/jvr2022).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔑 Why does this account exist?
+
+Sometimes, I am unable to access my main account due to 2FA (Two-Factor Authentication) issues. When that happens, I use this alternate account to ensure I can keep working without interruption.
+
+---
+
+## 🎓 School Projects Central
+
+You'll find most of my **school projects** and assignments here. I use this account as a workspace for coursework, experiments, and academic collaboration.
+
+---
+
+## 🚀 About Me
+
+- 👾 Main account: [jvr2022](https://github.com/jvr2022)
+- 🏫 Student, always learning new things
+- 🛠️ Passionate about coding, problem-solving, and building cool stuff
+
+---
+
+## 📫 Get in Touch
+
+If you need to reach out, please contact me through my main account: [jvr2022](https://github.com/jvr2022)
+
+---
+
+Thanks for stopping by!  
+Feel free to browse my projects, fork, or collaborate.
